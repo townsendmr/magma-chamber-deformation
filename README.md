@@ -2,6 +2,7 @@
 This MATLAB code links magma chamber evolution to surface deformation. 
 To cite this code, please reference: 
 Townsend M., Linking surface deformation to thermal and mechanical magma chamber processes, Earth and Planetary Science Letters, 2021
+and
 Degruyter W. and Huber C., A model for eruption frequency of upper crustal silicic magma chambers, Earth and Planetary Science Letters, 2014
 
 Run the code using the script "runCode.m"
